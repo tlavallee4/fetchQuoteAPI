@@ -14,7 +14,7 @@
 
 ### Name 1:
 
--   Worked on [specific elements] of the webpage.
+-   Set up the HTML and added JavaScript functions
 
 ### Name 2:
 
